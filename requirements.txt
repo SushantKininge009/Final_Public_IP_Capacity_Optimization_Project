@@ -1,0 +1,13 @@
+pandas
+google-cloud-storage
+google-cloud-aiplatform
+gcsfs
+fsspec
+openpyxl
+streamlit
+fuzzywuzzy[speedup]
+python-Levenshtein
+langchain
+langchain-google-vertexai
+langchain-experimental # Or langchain depending on agent import path
+db-dtypes
